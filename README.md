@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JarzaClay
-- 👀 I’m interested in Video games
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on idk really
+- 👀 I’m interested in streaming and some other stuff.
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on some games on GitHub
 - 📫 How to reach me find my house
 
 <!---
